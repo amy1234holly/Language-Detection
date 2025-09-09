@@ -2,33 +2,33 @@
 COMP SCI 7317 Assignment 3
 
 <p align="center">
-  <img src="figures/page1.png" width="70%" />
+  <img src="figures/page01.png" width="70%" />
 </p>
 
 <p align="center">
-  <img src="figures/page2.png" width="70%" />
+  <img src="./figures/page02.png" width="70%" />
 </p>
 
 <p align="center">
-  <img src="figures/page3.png" width="70%" />
+  <img src="figures/page03.png" width="70%" />
 </p>
 
 <p align="center">
-  <img src="figures/page4.png" width="70%" />
+  <img src="figures/page04.png" width="70%" />
 </p>
 
 <p align="center">
-  <img src="figures/page5.png" width="70%" />
+  <img src="figures/page05.png" width="70%" />
 </p>
 
 <p align="center">
-  <img src="figures/page6.png" width="70%" />
+  <img src="figures/page06.png" width="70%" />
 </p>
 
 <p align="center">
-  <img src="figures/page7.png" width="70%" />
+  <img src="figures/page07.png" width="70%" />
 </p>
 
 <p align="center">
-  <img src="figures/page8.png" width="70%" />
+  <img src="figures/page08.png" width="70%" />
 </p>
